@@ -1,5 +1,10 @@
 # Monthly Expenses Trackizer App UI UX Design Convent Into Native iOS SwiftUI Code
 
+# 效果示例
+
+<img src="screenshot.png" width="1024" height:auto alt="screenshot.png"/>
+
+
 # codeforany @codeforany
 
 - [Youtube Full Playlist: Monthly Expenses  App UI UX Design Convent Into SwiftUI Code](https://www.youtube.com/playlist?list=PLzcRC7PA0xWSMzFDkfF6TGKrOw7DlUEA3)
