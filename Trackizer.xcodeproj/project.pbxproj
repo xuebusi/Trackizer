@@ -8,7 +8,6 @@
 
 /* Begin PBXBuildFile section */
 		2BB3DC112AE0E42300F2054C /* README.md in Resources */ = {isa = PBXBuildFile; fileRef = 2BB3DC102AE0E42300F2054C /* README.md */; };
-		2BB3DC132AE0E4D200F2054C /* screenshot.png in Resources */ = {isa = PBXBuildFile; fileRef = 2BB3DC122AE0E4D200F2054C /* screenshot.png */; };
 		CB1A67712A5D9817007E34C4 /* TrackizerApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = CB1A67702A5D9817007E34C4 /* TrackizerApp.swift */; };
 		CB1A67752A5D981B007E34C4 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = CB1A67742A5D981B007E34C4 /* Assets.xcassets */; };
 		CB1A67782A5D981B007E34C4 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = CB1A67772A5D981B007E34C4 /* Preview Assets.xcassets */; };
@@ -85,7 +84,6 @@
 
 /* Begin PBXFileReference section */
 		2BB3DC102AE0E42300F2054C /* README.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = SOURCE_ROOT; };
-		2BB3DC122AE0E4D200F2054C /* screenshot.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = screenshot.png; sourceTree = "<group>"; };
 		CB1A676D2A5D9817007E34C4 /* Trackizer.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Trackizer.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		CB1A67702A5D9817007E34C4 /* TrackizerApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TrackizerApp.swift; sourceTree = "<group>"; };
 		CB1A67742A5D981B007E34C4 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
@@ -206,7 +204,6 @@
 				CB1A67702A5D9817007E34C4 /* TrackizerApp.swift */,
 				CB1A67742A5D981B007E34C4 /* Assets.xcassets */,
 				2BB3DC102AE0E42300F2054C /* README.md */,
-				2BB3DC122AE0E4D200F2054C /* screenshot.png */,
 				CB1A67762A5D981B007E34C4 /* Preview Content */,
 			);
 			path = Trackizer;
@@ -598,7 +595,6 @@
 				CB1A67752A5D981B007E34C4 /* Assets.xcassets in Resources */,
 				CB1A67AA2A5D98E9007E34C4 /* Inter-Regular.ttf in Resources */,
 				CB1A67A72A5D98E9007E34C4 /* Inter-Medium.ttf in Resources */,
-				2BB3DC132AE0E4D200F2054C /* screenshot.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
