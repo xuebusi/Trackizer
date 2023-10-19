@@ -2,7 +2,7 @@
 
 # 效果示例
 
-<img src="screenshot.png" width="1024" height:auto alt="screenshot.png"/>
+<img src="screenshot.jpg" width="1024" height:auto alt="screenshot.jpg"/>
 
 
 # codeforany @codeforany
